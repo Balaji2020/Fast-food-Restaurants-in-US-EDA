@@ -1,2 +1,3 @@
-# Fast-food-Restaurants-in-US-EDA
-EDA for fast food restaurants in US
+# Exploratory Data Analysis for Fast Food Restaurants In U.S.
+![image.png](image.png)
+
